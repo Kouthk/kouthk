@@ -3,7 +3,7 @@
 
 - 🔭 Hoje trabalho com front-end
 - 🌱 Atualmente estou estudando JavaScript e CSS
-- ⚡ Um jovem no começo de sua carreira, gosto de IOT e Web develop
+- ⚡ Um jovem no começo de sua carreira, que gosta de IOT e Web develop
 
  <div>
   <a href="https://github.com/kouthk">
