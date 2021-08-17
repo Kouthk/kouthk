@@ -2,6 +2,7 @@
 ### ✨Algumas informações sobre mim:
 
 - 🔭 Hoje trabalho com front-end
+- 🎓 Estou cursando Sistemas de Informação
 - 🌱 Atualmente estou estudando JavaScript e CSS
 - ⚡ Um jovem no começo de sua carreira, que gosta de IOT e Web develop
 
