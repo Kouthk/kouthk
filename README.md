@@ -18,6 +18,8 @@
   <img align="center" src="https://img.icons8.com/fluency/48/000000/arduino.png"/>
   <img align="center" alt="Rafa-Python" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="linux-SO"  height="30" width="40" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/linux.gif">
+  <img align="center" alt="bia-gitlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
+  <img align="center" alt="bia-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
   
   ##
