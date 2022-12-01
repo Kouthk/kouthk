@@ -1,7 +1,7 @@
 ## Opa, tudo supimpa? 👋
 ### ✨Algumas informações sobre mim:
 
-- 🔭 Hoje trabalho com front-end na Prefeitura Municipal de Rondonópolis
+- 🔭 Hoje trabalho como FullStack na Prefeitura Municipal de Rondonópolis
 - 🎓 Estou cursando Sistemas de Informação
 - 🌱 Atualmente estou estudando JavaScript e CSS
 - ⚡ Um jovem no começo de sua carreira, que gosta de IOT e Web develop
