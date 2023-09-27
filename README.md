@@ -1,9 +1,3 @@
-## Opa, tudo supimpa? 👋
-### ✨Algumas informações sobre mim:
-
-- 🎓 Estou cursando Sistemas de Informação
-- 🌱 Atualmente estou estudando JavaScript e CSS
-- ⚡ Um jovem no começo de sua carreira, que gosta de IOT e Web develop
 
  <div>
   <a href="https://github.com/kouthk">
